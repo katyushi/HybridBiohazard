@@ -1,6 +1,8 @@
 {
   "name": "FirstAid",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "bc7213d8"
 }
