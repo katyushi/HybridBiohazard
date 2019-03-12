@@ -13,6 +13,7 @@ const routes: Routes = [
   { path: 'internal-bleeding', loadChildren: './internal-bleeding/internal-bleeding.module#InternalBleedingPageModule' },
   { path: 'external-bleeding', loadChildren: './external-bleeding/external-bleeding.module#ExternalBleedingPageModule' },
   { path: 'poisoning', loadChildren: './poisoning/poisoning.module#PoisoningPageModule' },
+  { path: 'drowning', loadChildren: './drowning/drowning.module#DrowningPageModule' },
 ];
 
 @NgModule({
