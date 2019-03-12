@@ -12,6 +12,7 @@ const routes: Routes = [
   { path: 'fractures', loadChildren: './fractures/fractures.module#FracturesPageModule' },
   { path: 'internal-bleeding', loadChildren: './internal-bleeding/internal-bleeding.module#InternalBleedingPageModule' },
   { path: 'external-bleeding', loadChildren: './external-bleeding/external-bleeding.module#ExternalBleedingPageModule' },
+  { path: 'poisoning', loadChildren: './poisoning/poisoning.module#PoisoningPageModule' },
 ];
 
 @NgModule({
