@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>FirstAid</name>
-    <description>An app with informations of  first-aid.</description>
+    <description>An app with informations of first-aid.</description>
     <author email="hugo.luiz@outlook.com" href="http://hugoluiz.000webhostapp.com/">Hugo Lazzari</author>
     <content src="index.html" />
     <access origin="*" />
+    <preference name="Orientation" value="portrait" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
@@ -83,7 +84,9 @@
     <plugin name="cordova-plugin-ionic-webview" spec="^3.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <plugin name="cordova-plugin-console" spec="1.1.0" />
+    <plugin name="com.telerik.plugins.nativepagetransitions" spec="0.6.5" />
+    <plugin name="cordova-plugin-screen-orientation" spec="3.0.1" />
+    <plugin name="cordova-plugin-globalization" spec="1.11.0" />
     <engine name="ios" spec="4.5.5" />
     <engine name="android" spec="7.1.4" />
-    <plugin name="com.telerik.plugins.nativepagetransitions" spec="0.6.5" />
 </widget>
