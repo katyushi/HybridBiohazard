@@ -14,6 +14,11 @@ const routes: Routes = [
   { path: 'external-bleeding', loadChildren: './external-bleeding/external-bleeding.module#ExternalBleedingPageModule' },
   { path: 'poisoning', loadChildren: './poisoning/poisoning.module#PoisoningPageModule' },
   { path: 'drowning', loadChildren: './drowning/drowning.module#DrowningPageModule' },
+  { path: 'digestive-poisoning', loadChildren: './digestive-poisoning/digestive-poisoning.module#DigestivePoisoningPageModule' },
+  { path: 'dpfood', loadChildren: './dpfood/dpfood.module#DpfoodPageModule' },
+  { path: 'foodp', loadChildren: './foodp/foodp.module#FoodpPageModule' },
+  { path: 'meds', loadChildren: './meds/meds.module#MedsPageModule' },
+  { path: 'toxicp', loadChildren: './toxicp/toxicp.module#ToxicpPageModule' },
 ];
 
 @NgModule({
