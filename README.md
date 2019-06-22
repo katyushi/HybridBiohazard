@@ -1,5 +1,5 @@
 # HybridBiohazard
-it's an quick guide to informations about first aid
+it's an app to serve as a quick guide to informations about first aid
 ## Tools and Frameworks Used
 - nodejs
   - ionic framework V4
