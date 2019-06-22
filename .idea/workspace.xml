@@ -2,32 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bd4556e-1ba5-422a-ba21-de319127de13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hybridbiohazard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-hdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-ldpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-mdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-xhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-xhdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-xxhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-xxhdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-xxxhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/resources/android/icon/drawable-xxxhdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/resources/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/resources/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAid/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/burns/burns.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/burns/burns.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/choking/choking.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/choking/choking.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/cuts/cuts.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/cuts/cuts.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/drowning/drowning.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/drowning/drowning.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/external-bleeding/external-bleeding.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/external-bleeding/external-bleeding.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/src/app/fractures/fractures.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/fractures/fractures.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/src/app/home/home.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/home/home.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAid/src/app/how-to-prepare-a-basic-first-aid-kit/how-to-prepare-a-basic-first-aid-kit.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/how-to-prepare-a-basic-first-aid-kit/how-to-prepare-a-basic-first-aid-kit.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAid/src/app/foodp/foodp.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/foodp/foodp.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/internal-bleeding/internal-bleeding.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/internal-bleeding/internal-bleeding.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAid/src/app/meds/meds.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/meds/meds.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/poisoning/poisoning.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/poisoning/poisoning.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstAid/src/app/seizures/seizures.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/seizures/seizures.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAid/src/app/toxicp/toxicp.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAid/src/app/toxicp/toxicp.page.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,39 +27,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAid/src/app/fractures/fractures.page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FirstAid/src/app/digestive-poisoning/digestive-poisoning.page.html">
+        <entry file="file://$PROJECT_DIR$/FirstAid/src/app/seizures/seizures.page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstAid/src/app/dpfood/dpfood.page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="92" column="12" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="92" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstAid/src/app/home/home.page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstAid/src/app/poisoning/poisoning.page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-421">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="212">
+              <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -84,19 +54,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/FirstAid/src/app/fractures/fractures.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/how-to-prepare-a-basic-first-aid-kit/how-to-prepare-a-basic-first-aid-kit.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/home/home.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/dpfood/dpfood.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/digestive-poisoning/digestive-poisoning.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/poisoning/poisoning.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/toxicp/toxicp.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/meds/meds.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/foodp/foodp.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/drowning/drowning.page.html" />
         <option value="$PROJECT_DIR$/FirstAid/src/app/burns/burns.page.html" />
         <option value="$PROJECT_DIR$/FirstAid/src/app/choking/choking.page.html" />
         <option value="$PROJECT_DIR$/FirstAid/src/app/cuts/cuts.page.html" />
-        <option value="$PROJECT_DIR$/FirstAid/src/app/drowning/drowning.page.html" />
         <option value="$PROJECT_DIR$/FirstAid/src/app/external-bleeding/external-bleeding.page.html" />
-        <option value="$PROJECT_DIR$/FirstAid/src/app/fractures/fractures.page.html" />
-        <option value="$PROJECT_DIR$/FirstAid/src/app/how-to-prepare-a-basic-first-aid-kit/how-to-prepare-a-basic-first-aid-kit.page.html" />
+        <option value="$PROJECT_DIR$/FirstAid/src/app/garrote/garrote.page.html" />
         <option value="$PROJECT_DIR$/FirstAid/src/app/internal-bleeding/internal-bleeding.page.html" />
         <option value="$PROJECT_DIR$/FirstAid/src/app/seizures/seizures.page.html" />
-        <option value="$PROJECT_DIR$/FirstAid/src/app/home/home.page.html" />
-        <option value="$PROJECT_DIR$/FirstAid/src/app/dpfood/dpfood.page.html" />
-        <option value="$PROJECT_DIR$/FirstAid/src/app/poisoning/poisoning.page.html" />
-        <option value="$PROJECT_DIR$/FirstAid/src/app/digestive-poisoning/digestive-poisoning.page.html" />
       </list>
     </option>
   </component>
@@ -111,108 +85,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
+              <item name="HybridBiohazard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HybridBiohazard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
+              <item name="HybridBiohazard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HybridBiohazard" type="462c0819:PsiDirectoryNode" />
               <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
+              <item name="HybridBiohazard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HybridBiohazard" type="462c0819:PsiDirectoryNode" />
               <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
+              <item name="HybridBiohazard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HybridBiohazard" type="462c0819:PsiDirectoryNode" />
               <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="burns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
+              <item name="HybridBiohazard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HybridBiohazard" type="462c0819:PsiDirectoryNode" />
               <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="choking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="cuts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="digestive-poisoning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="dpfood" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="how-to-prepare-a-basic-first-aid-kit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="internal-bleeding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hybridbiohazard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hybridbiohazard" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstAid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="poisoning" type="462c0819:PsiDirectoryNode" />
+              <item name="garrote" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,22 +161,20 @@
       <option name="presentableId" value="Default" />
       <updated>1561067413200</updated>
       <workItem from="1561067427505" duration="8860000" />
+      <workItem from="1561162969899" duration="10574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8860000" />
+    <option name="totallyTimeSpent" value="19434000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="27" width="1296" height="741" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24587588" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24553572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.18104906" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Quokka" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -274,6 +182,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32991454" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.17948718" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -283,44 +195,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/burns/burns.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/choking/choking.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/cuts/cuts.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/drowning/drowning.page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/external-bleeding/external-bleeding.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/fractures/fractures.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FirstAid/src/app/how-to-prepare-a-basic-first-aid-kit/how-to-prepare-a-basic-first-aid-kit.page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -328,41 +202,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/internal-bleeding/internal-bleeding.page.html">
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/digestive-poisoning/digestive-poisoning.page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/seizures/seizures.page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/home/home.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/poisoning/poisoning.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-421">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="-192">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstAid/src/app/dpfood/dpfood.page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="92" column="12" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="92" selection-end-column="12" />
+        <state relative-caret-position="2208">
+          <caret line="92" column="12" selection-start-line="14" selection-start-column="8" selection-end-line="92" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/digestive-poisoning/digestive-poisoning.page.html">
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/poisoning/poisoning.page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
+        <state relative-caret-position="-504">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/toxicp/toxicp.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/meds/meds.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/foodp/foodp.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/drowning/drowning.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="49" column="63" lean-forward="true" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/home/home.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/burns/burns.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/choking/choking.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="n#p#9;n#ion-content#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/cuts/cuts.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/external-bleeding/external-bleeding.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/garrote/garrote.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="88" column="12" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/internal-bleeding/internal-bleeding.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="56" column="98" lean-forward="true" selection-start-line="56" selection-start-column="98" selection-end-line="56" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/fractures/fractures.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAid/src/app/seizures/seizures.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
         </state>
       </provider>
     </entry>

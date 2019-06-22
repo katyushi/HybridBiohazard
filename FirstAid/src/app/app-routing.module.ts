@@ -18,7 +18,8 @@ const routes: Routes = [
   { path: 'dpfood', loadChildren: './dpfood/dpfood.module#DpfoodPageModule' },
   { path: 'foodp', loadChildren: './foodp/foodp.module#FoodpPageModule' },
   { path: 'meds', loadChildren: './meds/meds.module#MedsPageModule' },
-  { path: 'toxicp', loadChildren: './toxicp/toxicp.module#ToxicpPageModule' },
+  { path: 'toxicp', loadChildren: './toxicp/toxicp.module#ToxicpPageModule' },  { path: 'garrote', loadChildren: './garrote/garrote.module#GarrotePageModule' },
+
 ];
 
 @NgModule({
