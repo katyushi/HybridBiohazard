@@ -19,6 +19,9 @@ const routes: Routes = [
   { path: 'foodp', loadChildren: './foodp/foodp.module#FoodpPageModule' },
   { path: 'meds', loadChildren: './meds/meds.module#MedsPageModule' },
   { path: 'toxicp', loadChildren: './toxicp/toxicp.module#ToxicpPageModule' },  { path: 'garrote', loadChildren: './garrote/garrote.module#GarrotePageModule' },
+  { path: 'terms', loadChildren: './terms/terms.module#TermsPageModule' },
+  { path: 'main', loadChildren: './main/main.module#MainPageModule' },
+  { path: 'about', loadChildren: './about/about.module#AboutPageModule' },
 
 ];
 
