@@ -7,3 +7,15 @@ it's an app to serve as a quick guide to informations about first aid when neede
 - android studio
 - webstorm ide
 - visual studio code
+### Some Screenshots
+![](/media/1.jpeg)
+
+![](/media/2.jpeg)
+
+![](/media/3.jpeg)
+
+![](/media/4.jpeg)
+
+![](/media/5.jpeg)
+
+![](/media/6.jpeg)
