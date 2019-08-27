@@ -11,20 +11,20 @@ it's an app to serve as a quick guide to informations about first aid when neede
 
 ## Some Screenshots
 
-main menu
+### Main Menu
 ![](/media/1.jpeg)
 
-how to prepare a basic first aid kit
+### How to Prepare a Basic First Aid Kit
 ![](/media/2.jpeg)
 
-page about poisoning by medicines
+### Page About Poisoning by Medicines
 ![](/media/3.jpeg)
 
-page about seizures
+### Page About Seizures
 ![](/media/4.jpeg)
 
-page about cuts
+### Page About Cuts
 ![](/media/5.jpeg)
 
-page about poisoning
+### Page About Poisoning
 ![](/media/6.jpeg)
