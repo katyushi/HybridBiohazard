@@ -10,14 +10,21 @@ it's an app to serve as a quick guide to informations about first aid when neede
 - visual studio code
 
 ## Some Screenshots
-![main menu](/media/1.jpeg)
 
-![how to prepare a basic first aid kit](/media/2.jpeg)
+main menu
+![](/media/1.jpeg)
 
-![page about poisoning by medicines](/media/3.jpeg)
+how to prepare a basic first aid kit
+![](/media/2.jpeg)
 
-![page about seizures](/media/4.jpeg)
+page about poisoning by medicines
+![](/media/3.jpeg)
 
-![page about cuts](/media/5.jpeg)
+page about seizures
+![](/media/4.jpeg)
 
-![page about poisoning](/media/6.jpeg)
+page about cuts
+![](/media/5.jpeg)
+
+page about poisoning
+![](/media/6.jpeg)
