@@ -1,0 +1,21 @@
+home
+topicoshome
+termos
+sobre
+convulcoes
+kitbasico
+cortes
+queimaduras
+engasgo
+fraturas
+hemorragiainternal
+hemorragiaexterna
+torniquete
+envenenamentorespiratorio
+envenenamentodigestivo
+envdigcomida
+envdigremedio
+envdigquimicos
+afogamento
+
+ionic generate page topicoshome &ionic generate page termos &ionic generate page sobre &ionic generate page convulcoes &ionic generate page kitbasico &ionic generate page cortes &ionic generate page queimaduras &ionic generate page engasgo &ionic generate page fraturas &ionic generate page hemorragiainternal &ionic generate page hemorragiaexterna &ionic generate page torniquete &ionic generate page envenenamentorespiratorio &ionic generate page envenenamentodigestivo &ionic generate page envdigcomida &ionic generate page envdigremedio &ionic generate page envdigquimicos &ionic generate page afogamento
