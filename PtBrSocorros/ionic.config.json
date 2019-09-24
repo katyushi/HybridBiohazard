@@ -1,5 +1,7 @@
 {
   "name": "PtBrSocorros",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
