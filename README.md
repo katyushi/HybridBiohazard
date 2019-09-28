@@ -28,3 +28,6 @@ it's an app to serve as a quick guide to informations about first aid when neede
 
 ### Page About Poisoning
 ![](/media/6.jpeg)
+
+### Page Structure
+![](/media/FistAid.png)

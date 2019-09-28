@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058571596107",
+    "firebase_url": "https://firstaid-a493c.firebaseio.com",
+    "project_id": "firstaid-a493c",
+    "storage_bucket": "firstaid-a493c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058571596107:android:251bcec863b29590e9f8ce",
+        "android_client_info": {
+          "package_name": "io.github.katyushi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058571596107-0dbeke906embqog6a5623raojiac9r0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSIJJZEqzdRv4t8HWygo0sRnzGJ5SBDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058571596107-0dbeke906embqog6a5623raojiac9r0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
