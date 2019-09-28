@@ -15,6 +15,16 @@ export default class HelloWorldApp extends Component {
           title="press me"
           color="#D69A6B"
           onPress={() =>Alert.alert('send help please')}/>
+          <Button 
+          title="press me"
+          color="#9D8B7E"
+          onPress={() =>Alert.alert('send help please')}/>
+      </View>
+      <View>
+        <Button 
+            title="press me"
+            color="#8A6345"
+            onPress={() =>Alert.alert('send help please')}/>
       </View>
     );
   }
