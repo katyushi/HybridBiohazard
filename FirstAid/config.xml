@@ -41,8 +41,6 @@
         <splash density="port-xhdpi" src="resources/android/splash/drawable-port-xhdpi-screen.png" />
         <splash density="port-xxhdpi" src="resources/android/splash/drawable-port-xxhdpi-screen.png" />
         <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
-        <resource-file src="google-services.json" target="src\app\google-services.json" />
-        <preference name="APP_SECRET" value="edd156ff-d434-4e3b-b568-5b54f077e981" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
